@@ -9,7 +9,7 @@ int main(){
     std::string str;
     std::cout <<"Enter user name:" <<std::flush;
     std::cin >> str;
-    std::cout <<"Thank you for your input " << str << " :)" << std::endl;
+    std::cout <<"Thank you for your input " << str << "! :)" << std::endl;
 
     std::cout << str;
 
